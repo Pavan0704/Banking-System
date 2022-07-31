@@ -1,2 +1,3 @@
-# Banking-System
-Project on Banking system
+# BasicBankingSystem
+Sparks Foundation Web Development Internship Project : Basic Banking System website. 
+
